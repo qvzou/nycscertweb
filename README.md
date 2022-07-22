@@ -1,7 +1,6 @@
 # nycscertweb
 
 Welcome to Vanessa's 
-
 ##### Hello World!
 
 
