@@ -1,2 +1,3 @@
-# Data Structures in a High Level Language #### (CSCI 703)
+# Data Structures in a High Level Language 
+#### (CSCI 703)
 
