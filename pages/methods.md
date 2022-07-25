@@ -2,3 +2,4 @@
 ##### (SEDC 719)
 
 ## [01_Lesson](https://github.com/hunter-teacher-cert/cohort-3-summer-work-qvzou/blob/master/methods/01_Lesson.txt)
+*Plan a quick computer science lesson
