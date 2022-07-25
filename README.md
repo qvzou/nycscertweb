@@ -1,7 +1,6 @@
 # nycscertweb
 
-Welcome to Vanessa's 
-##### Hello World!
+Learning to create a website...
 
 
 ## Notable Work:
