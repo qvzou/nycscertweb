@@ -1,7 +1,8 @@
 # nycscertweb
 
-Learning to create a website...
+Welcome to Vanessa's coding education
 
 
-## Notable Work:
-* [Lesson plan](https://github.com/hunter-teacher-cert/cohort-3-summer-work-qvzou/blob/master/methods/01_Lesson.txt)
+## Courses of Summer 2022
+
+####[Programming in Higher Level Language](
