@@ -4,4 +4,4 @@ Learning to create a website...
 
 
 ## Notable Work:
-* [Lesson plan](https://replit.com/@qvzou/cohort-3-summer-work-qvzou#methods/01_Lesson.txt)
+* [Lesson plan](https://github.com/hunter-teacher-cert/cohort-3-summer-work-qvzou/blob/master/methods/01_Lesson.txt)
